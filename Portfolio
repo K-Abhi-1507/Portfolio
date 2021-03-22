@@ -1,0 +1,70 @@
+Color codes:
+#05386B:Dark BLue
+#379683:Pale Dark green
+#5CDB95:Pale light green
+#8EE4AF:other kind of green
+#EDF5E1:Pale white
+
+
+
+  <table border="0" width="100%" cellpadding="15" cellspacing="0" align="center" bgcolor="#353535">
+                         <tbody><tr>
+                             <td width="30%">
+                                 <font face="arial" size="4" color="#ffffff">
+                                  Name
+                                 </font>
+                                 
+                            </td>
+                            <td width="70%">
+                                <input type="text" size="50">
+                            </td>
+                         </tr>
+                         <tr>
+                             <td width="30%">
+                                 <font face="arial" size="4" color="#ffffff">
+                                  Email
+                                 </font>
+                                 
+                            </td>
+                            <td width="70%">
+                                <input type="text" size="50">
+                            </td>
+                         </tr>
+                         <tr>
+                             <td width="30%">
+                                 <font face="arial" size="4" color="#ffffff">
+                                  Subject
+                                 </font>
+                                 
+                            </td>
+                            <td width="70%">
+                                <input type="text" size="50">
+                            </td>
+                         </tr>
+        
+                         <tr>
+                             <td width="30%">
+                                 <font face="arial" size="4" color="#ffffff">
+                                  Message
+                                 </font>
+                                 
+                            </td>
+                            <td width="70%">
+                                <textarea cols="51" rows="4"></textarea>
+                            </td>
+                         </tr>
+                         <tr>
+                             <td width="30%">
+                                 &nbsp;
+                            </td>
+                            <td width="70%">
+                                
+                                    <button type="submit">
+                                    <font size="5" face="arial">Send Message</font>
+                                    </button>
+                                
+                            </td>
+        
+                         </tr>
+        
+                       </tbody>
